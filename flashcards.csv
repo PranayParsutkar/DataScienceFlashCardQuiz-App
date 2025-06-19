@@ -1,0 +1,5 @@
+question,answer,topic
+What is overfitting?,When the model fits training data too well and performs poorly on new data.,Machine Learning
+What does the 'groupby' function do in pandas?,Groups data by one or more columns and performs aggregate functions.,Python
+What is precision in classification?,Precision = TP / (TP + FP),ML Metrics
+What is a primary key in SQL?,A unique identifier for table rows.,SQL
