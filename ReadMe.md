@@ -1,6 +1,5 @@
 # Data Science Flash Card Quiz App 
 This is a both Data Science Capstone project and Flash card quiz app built using Python, Streamlit, and MySQL. This project helps you revise data science concepts and also demonstrates skills in GUI web app development, databases, and basic automation.
-Try Project Live Here (App Link): http://172.20.10.3:8501
 
 ## Features
 - View random flash cards with question-answer format
